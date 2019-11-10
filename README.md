@@ -5,17 +5,17 @@ El ejercicio consiste en crear una clase prisionero, dónde se deben ingresar lo
 Se diseñó el programa "registro" para el ingreso de nuevos prisioneros y el programa "prisionero" para crear al objeto prisionero.
 Se insertaron dos diferentes prisioneros.
 
-
+![Lección 7_2_1_1](https://user-images.githubusercontent.com/54320247/68538225-843e1580-0336-11ea-8919-13c6f7586bdd.jpg)
 
 Posteriormente se solicita cambiar los datos de uno de los prisioneros para que coincida la información de ambos prisioneros. Se realiza y se observa que se crearon dos prisioneros diferentes con los mismos datos.
 
+![Lección 7_2_1_3](https://user-images.githubusercontent.com/54320247/68538226-843e1580-0336-11ea-952f-486d6e7b7c34.jpg)
 
+![Lección 7_2_1_4](https://user-images.githubusercontent.com/54320247/68538227-84d6ac00-0336-11ea-8a29-98ccd61ec6eb.jpg)
 
 Nuevamente se solicita modificar el programa esta vez definiendo la variable de referencia como igual para ambos prisioneros y modificando los datos para que la información de cada uno sea diferente. 
 Se observa que al declarar las variables como igual, el programa sólo crea una instancia del objeto existiendo sólo un prisionero.
 
+![Lección 7_2_1_5](https://user-images.githubusercontent.com/54320247/68538228-84d6ac00-0336-11ea-8c8e-06cd56b3baa9.jpg)
 
-
-Esta vez se solicita crear dos prisioneros con los mismos datos, probar la expresion booleana == para ambos prisioneros y posteriormente imprimir el valor de cada prisionero.
-Se observa que aún con los mismos datos de prisionero, mientras su nombre de etiqueta sea diferente, los datos de cada uno se almacenan en diferentes bloques de memoria creando así dos prisioneros diferentes.
-
+![Lección 7_2_1_6](https://user-images.githubusercontent.com/54320247/68538229-84d6ac00-0336-11ea-84b5-c02a83c1aa6b.jpg)
